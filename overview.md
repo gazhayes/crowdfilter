@@ -35,7 +35,7 @@ The **Crowd Filter** is divided into two distinct aspects:
     
     1.4 The Platform must gather feedback from members of the Smart Crowd to ensure that the incentives continuously improve in accuracy
       - Again, we hook this feedback directly into the development process 
-      - The rules that developers follow incorporate a mechanism by which feedback from members of the Smart Crowd results in updates to the Platform itself without any overhead caused by requiring intervention from the Legal Entity or any kind of direct management.
+      - The rules that developers follow incorporate a mechanism by which feedback from members of the Smart Crowd results in updates to the Platform itself without any overhead caused by requiring intervention from the Traditional Entity or any kind of direct management.
 
 2. The Technical Development of the Platform itself.  
    2.1 Build and continuously improve the Platform software - initially a web based system but could include apps etc later on.  
