@@ -37,14 +37,15 @@ The **Crowd Filter** is divided into two distinct aspects:
       - Again, we hook this feedback directly into the development process 
       - The rules that developers follow incorporate a mechanism by which feedback from members of the Smart Crowd results in updates to the Platform itself without any overhead caused by requiring intervention from the Legal Entity or any kind of direct management.
 
-2. The Technical Development of the Platform itself
-2.1 Build and continuously improve the Platform software - initially a web based system but could include apps etc later on
-    2.2 The infrastructure - devops to support the platform such that it can scale
-    2.3 The direction that Technical Development follows needs to be informed by feedback from:
-        2.3.1 The Traditional Entity
-        2.3.2 Institutional Clients
-        2.3.3 Members of the Smart Crowd
-    2.4 Must follow a rules-based development process such that:
-        2.4.1 Development does not become less efficient as the team size increases (Amdahl's Law = the more you need consensus on what to build, the less efficiently you can build it)
-        2.4.2 Work done to improve the platform is solving real problems for real users, and not creating technical debt
-        2.4.3 The process makes it fun for developers to work on the project
+2. The Technical Development of the Platform itself.  
+   2.1 Build and continuously improve the Platform software - initially a web based system but could include apps etc later on.  
+   2.2 The infrastructure - devops to support the platform such that it can scale.  
+   2.3 The direction that Technical Development follows needs to be informed by feedback from:   
+   - The Traditional Entity
+   - Institutional Clients
+   - Members of the Smart Crowd
+   
+   2.4 Must follow a rules-based development process such that:   
+   - Development does not become less efficient as the team size increases (Amdahl's Law = the more you need consensus on what to build, the less efficiently you can build it)
+   - Work done to improve the platform is solving real problems for real users, and not creating technical debt
+   - The process makes it fun for developers to work on the project
